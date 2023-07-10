@@ -1,9 +1,6 @@
-<div id="welcome"></div>
+<h1>Hello :P</h1>
 
-
-<script>
   let Welcome = "Hello There!";
   Welcome.innerHTML = `<marquee>${Welcome}</marquee>`;
 
   document.getElementById("welcome").append(Welcome);
-</script>
