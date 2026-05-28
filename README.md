@@ -1,4 +1,4 @@
-<h2 align="center">Sleep  like a !cat 🐸</h2>
+<h2 align="center">Sleep (Optional)</h2>
 
 ###
 
